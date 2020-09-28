@@ -21,7 +21,7 @@ break;
 case 6:
 day = " Saturday ";
 break;
-decaul;
+default;
 day = " Unknown ";
 }
 console.log(day);
